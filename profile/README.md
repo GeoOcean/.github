@@ -15,4 +15,6 @@ During the last few years, our main research lines have been focused on:
 
 ## Repositories
 - Classes:
--   [COMIC](https://github.com/GeoOcean/COMIC)
+  - [COMIC](https://github.com/GeoOcean/COMIC)
+  - [Ondas](https://github.com/GeoOcean/Ondas)
+  - [Beach Engineering](https://github.com/GeoOcean/BeachEngineering)
