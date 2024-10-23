@@ -1,6 +1,8 @@
 # GeoOcean Group
 
-The Geomatics and Ocean Engineering Group (GeoOcean) from the Department of Sciences and Technologies of Water and Environment of University of Cantabria is a young scientific group supported by more than 15 years of scientific and engineering works by their senior members.\
+![GeoOcean Group](geoocean.png)
+
+The Geomatics and Ocean Engineering Group (GeoOcean) from the Department of Sciences and Technologies of Water and Environment of University of Cantabria is a young scientific group supported by more than 15 years of scientific and engineering works by their senior members.
 
 ## Trajectory
 During the last few years, our main research lines have been focused on:
