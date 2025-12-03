@@ -22,7 +22,7 @@ Our recent research lines include:
 ---
 
 <p align="center">
-  <img src="bluemath_logo.png" width="60%" alt="GeoOcean Group">
+  <img src="bluemath_logo.png" width="40%" alt="GeoOcean Group">
 </p>
 
 **BlueMath** is our flagship open-source platform for **statistical analysis, probabilistic modeling, metamodeling, and coastal-hazard simulation**.  
