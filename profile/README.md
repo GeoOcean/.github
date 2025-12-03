@@ -1,24 +1,69 @@
-# GeoOcean Group
+# GeoOcean Research Group
 
-![GeoOcean Group](geoocean.png)
+<p align="center">
+  <img src="geoocean.png" width="70%" alt="GeoOcean Group">
+</p>
 
-The Geomatics and Ocean Engineering Group (GeoOcean) from the Department of Sciences and Technologies of Water and Environment of University of Cantabria is a young scientific group supported by more than 15 years of scientific and engineering works by their senior members.
+## 🌍 About Us
+The **Geomatics and Ocean Engineering Group (GeoOcean)** at the *University of Cantabria* is an active research group with more than 15 years of accumulated expertise.  
+We work at the intersection of **coastal engineering, ocean data science, numerical modeling, and climate resilience**, developing open-source tools and scientific methods for coastal risk analysis.
 
-## Trajectory
-During the last few years, our main research lines have been focused on:
+---
 
-- 📊 Development of statistical and numerical models to analyze wave climate, extremes, climate change, and sea level variations.
-- 🌊 Development of tools for addressing problems of coastal flooding risk, including climate variability.
-- 🛰️ UAV-based coastal monitoring.
-- 🌀 Forecast systems of coastal flooding (swells and tropical cyclones) based on data mining and metamodels.
+## 📌 Research Focus
+Our recent research lines include:
 
-## BlueMath
+- 📊 **Statistical & numerical modeling** of wave climate, coastal hazards, and climate-change scenarios.  
+- 🌊 **Coastal flooding risk assessment**, including variability and extremes.  
+- 🛰️ **UAV-based coastal monitoring** for geomorphology and hazard detection.  
+- 🌀 **Forecast systems** for swells, tropical cyclones, and compound flooding using machine learning and metamodels.  
+- 🧩 **Open-source frameworks** to enable reproducible coastal and climate risk analysis.
 
-## Packages
-- [bluemath-tk](https://github.com/GeoOcean/bluemath_tk)
-- [pymesh2d](https://github.com/GeoOcean/pymesh2d)
+---
 
-## Classes
-- [COMIC](https://github.com/GeoOcean/COMIC)
-- [Ondas](https://github.com/GeoOcean/Ondas)
-- [Beach Engineering](https://github.com/GeoOcean/BeachEngineering)
+# 🔵 BlueMath Ecosystem
+
+<p align="center">
+  <a href="https://github.com/GeoOcean/BlueMath">
+    <img src="https://raw.githubusercontent.com/GeoOcean/BlueMath/main/docs/bluemath_logo.png" width="45%" alt="BlueMath">
+  </a>
+</p>
+
+**BlueMath** is our flagship open-source platform for **statistical analysis, probabilistic modeling, metamodeling, and coastal-hazard simulation**.  
+It provides a unified environment for:
+
+- 📈 Exploratory coastal & ocean data analysis  
+- 📉 Probabilistic modeling (extremes, stochastic processes, uncertainty)  
+- ⚙️ Numerical metamodels for waves, surge, flooding  
+- 🌐 High-resolution climate-change risk assessment  
+- 🤝 Reproducible research and collaborative workflows  
+
+👉 Explore the full project: **https://github.com/GeoOcean/BlueMath**
+
+---
+
+## 📦 Packages & Toolkits
+
+### Core Packages
+- 🔹 **[bluemath-tk](https://github.com/GeoOcean/bluemath_tk)** – Statistical and probabilistic toolkit powering BlueMath workflows.  
+- 🔹 **[pymesh2d](https://github.com/GeoOcean/pymesh2d)** – 2D unstructured mesh generation and manipulation.
+
+---
+
+## 🧮 Computational Models & Classes
+- 🏖️ **[Beach Engineering](https://github.com/GeoOcean/BeachEngineering)** – Models for beach morphodynamics.  
+- 🌊 **[Ondas](https://github.com/GeoOcean/Ondas)** – Wave transformation and coastal processes.  
+- 📦 **[COMIC](https://github.com/GeoOcean/COMIC)** – Coastal metamodeling for climate-impact studies.
+
+---
+
+## 🤝 Contributing
+We welcome contributions to the BlueMath ecosystem and the GeoOcean open-source tools.  
+Feel free to open issues, submit PRs, or propose new modules.
+
+---
+
+## 📬 Contact
+**GeoOcean Group – University of Cantabria**  
+Department of Water and Environmental Sciences & Technologies  
+🔗 https://github.com/GeoOcean
