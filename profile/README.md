@@ -13,11 +13,11 @@ We work at the intersection of **coastal engineering, ocean data science, numeri
 ## Research Focus
 Our recent research lines include:
 
-- **Statistical & numerical modeling** of wave climate, coastal hazards, and climate-change scenarios.  
-- **Coastal flooding risk assessment**, including variability and extremes.  
-- **UAV-based coastal monitoring** for geomorphology and hazard detection.  
-- **Forecast systems** for swells, tropical cyclones, and compound flooding using machine learning and metamodels.  
-- **Open-source frameworks** to enable reproducible coastal and climate risk analysis.
+- <span style="color:#D98C63;"><strong>Statistical & numerical modeling</strong></span> of wave climate, coastal hazards, and climate-change scenarios.  
+- <span style="color:#74C1A2;"><strong>Coastal flooding risk assessment</strong></span>, including variability and extremes.  
+- <span style="color:#7FA6C9;"><strong>UAV-based coastal monitoring</strong></span> for geomorphology and hazard detection.  
+- <span style="color:#3B5783;"><strong>Forecast systems</strong></span> for swells, tropical cyclones, and compound flooding using machine learning and metamodels.  
+- <span style="color:#3B5783;"><strong>Open-source frameworks</strong></span> to enable reproducible coastal and climate risk analysis.
 
 ---
 
