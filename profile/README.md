@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="geoocean.png" width="90%" alt="GeoOcean Group">
+  <img src="geoocean1.png" width="90%" alt="GeoOcean Group">
 </p>
 
 The **Geomatics and Ocean Engineering Group (GeoOcean)** at the *University of Cantabria* is an active research group with more than 15 years of accumulated expertise.
