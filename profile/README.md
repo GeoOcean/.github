@@ -28,7 +28,7 @@ The **Geomatics and Ocean Engineering Group (GeoOcean)** at the *University of C
 ## Packages
 
 - **[bluemath-tk](https://github.com/GeoOcean/bluemath_tk)** – Statistical and probabilistic toolkit powering BlueMath workflows.  
-- **[pymesh2d](https://github.com/GeoOcean/pymesh2d)** – 2D unstructured mesh generation.
+- **[BlueMesh2d](https://github.com/GeoOcean/BlueMesh2d)** – 2D unstructured mesh generation.
 
 ---
 
